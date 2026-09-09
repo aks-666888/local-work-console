@@ -101,3 +101,10 @@ A：那些是优秀的云工具：多端同步、团队协作是它们的长处�
 
 ---
 © 夜猫子小强（XiaoQiangDev） · 开源协议见仓库 LICENSE
+
+## 📮 反馈与建议
+
+用着有问题、想要什么功能、或者就是想吐槽 —— 直接开个 Issue，我每天都看：
+https://github.com/aks-666888/local-work-console/issues
+
+你的反馈决定下一个版本往哪走。
