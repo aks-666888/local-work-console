@@ -108,3 +108,12 @@ A：那些是优秀的云工具：多端同步、团队协作是它们的长处�
 https://github.com/aks-666888/local-work-console/issues
 
 你的反馈决定下一个版本往哪走。
+
+---
+
+## 💛 支持作者
+
+工具永久免费开源。如果它帮到了你，欢迎到爱发电请我喝杯奶茶：
+https://afdian.com/a/xiaoqiangdev
+
+你的支持让我能持续更新更多效率工具。
